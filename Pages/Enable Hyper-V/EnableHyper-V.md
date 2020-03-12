@@ -1,3 +1,3 @@
-![alt text](/img/controlPanel.jpg "Control Panel")
+An image should apread under here:
 
-![alt text](/blob/master/Pages/Enable Hyper-V/img/enableHyperV.jpg "Control Panel")
+![alt text](https://github.com/8bitNrd/8bitnrd.github.io/blob/master/Pages/Enable%20Hyper-V/img/controlPanel.jpg)
