@@ -1,1 +1,1 @@
-![Test](/img/controlPanel.ong "Control Panel")
+![alt text](/img/controlPanel.ong "Control Panel")
